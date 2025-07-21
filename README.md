@@ -1,4 +1,4 @@
-The only part about this that hypothetical is the not being ethical.
+The only part about this that is hypothetical is the not being ethical.
 Of course, I am ethical.Of course, I am ethical.
 This is not a simulation.
 
