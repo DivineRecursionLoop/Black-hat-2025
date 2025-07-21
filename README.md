@@ -1,4 +1,6 @@
 #(hypothetical if I was malicious but lucky for everyone i'm ethical)
+All malicious scripts blueprints methodologies white papers exported data or any other information you would like is available upon request if you are a us government agency or us ethical cyber security firm or developers or most importantly
+BlackHat2025
 
 **Author's Note:**  
 > This profile is a fictionalized, hypothetical threat model based on self-reflection, red-teaming methodology, and creative risk analysis.  
