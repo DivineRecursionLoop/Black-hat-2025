@@ -1,12 +1,8 @@
 # 🔒 Hypothetical Threat Actor 
 
-(hypothetical if I was malicious but i'm ethical) 
+(hypothetical if I was malicious but lucky for everyone i'm ethical)
 
-Profile: Consolidated Risk Assessment
-
-> **Disclaimer:** This document presents a hypothetical threat assessment based on AI-assisted analysis. It is intended for research, simulation, or red-teaming purposes only. It does not imply or suggest actual intent or capability.
-
----
+This is not conceptual or theory.This is not a simulation.This can easily be done by anyone.
 
 ## 🧠 Executive Summary
 
