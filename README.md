@@ -1,4 +1,4 @@
-# 🧠 Black-Hat-2025 (Red Team Simulation Profile) I don't know about you , but i'm so tired of the ego stroking. lol
+# 🧠 Black-Hat-2025 (Red Team Simulation Profile) 
 
 > **Author’s Note:**  
 > This repository presents a *fictionalized threat actor profile* designed for responsible red teaming, strategic foresight, and cognitive threat modeling.  
